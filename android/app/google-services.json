@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186137375199",
+    "project_id": "mistri-a7bb3",
+    "storage_bucket": "mistri-a7bb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186137375199:android:45cdfd00a88c30c2ab546a",
+        "android_client_info": {
+          "package_name": "com.example.buuilderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186137375199-ni6nplai6gl1vvtocu574g8q0irqh3ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTmAF3hm9wRX2acim_NSCqAVK8zav4Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186137375199-ni6nplai6gl1vvtocu574g8q0irqh3ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
